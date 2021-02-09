@@ -1,0 +1,16 @@
+.mainNotes{
+	 /*Push text down to left needs to match with float direction*/
+	 clear: left; clear: both; /* <-- matches to left and right*/
+	 /* */
+
+	 /* */
+
+	 /* */
+
+	 /* */
+}
+/*Change only first child "a" in a bio-box class*/
+.bio-box > a{
+	color: red; 
+
+}
